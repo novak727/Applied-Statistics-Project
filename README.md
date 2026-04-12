@@ -1,6 +1,8 @@
 # Applied Statistics I Project
 This repository holds all files relating to the course project from my Applied Statistic I class. This includes the dataset in [California_DDS_Expenditures.csv](https://github.com/novak727/Applied-Statistics-Project/blob/main/California_DDS_Expenditures.csv), the R file that contains all code that was written for analysis, the final PDF of the report, and the original LaTeX source file.
 
+STILL A WIP, THIS PROJECT IS NOT YET COMPLETE!
+
 ## Installation
 You need [R](https://rstudio-education.github.io/hopr/starting.html) for this project, and [RStudio](https://posit.co/downloads/) is recommended for a friendlier interface.
 
