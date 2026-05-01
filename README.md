@@ -25,12 +25,12 @@ cd /path/to/files
 ```
 2. Run the following:
 ```
-Rscript Project.R
+Rscript MA345-project.R
 ```
 #### Running from RStudio
 1. Click File -> Open File
-2. Open Project.R
-3. Click Session -> Set Working Directory -> To Source File Location (assuming the CSV file is in the same directory as the Project.R file. If it isn't, set the working directory to the location of the CSV file.)
+2. Open MA345-project.R
+3. Click Session -> Set Working Directory -> To Source File Location (assuming the CSV file is in the same directory as the MA345-project.R file. If it isn't, set the working directory to the location of the CSV file.)
 4. Click in the script, then click Ctrl+A (or Cmd+A on Mac)
 5. Click the run button
 6. Any graphics that are generated will be in the bottom right window. Use the left or right arrows to select a graph
