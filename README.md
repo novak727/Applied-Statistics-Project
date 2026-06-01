@@ -6,11 +6,11 @@ You need [R](https://rstudio-education.github.io/hopr/starting.html) for this pr
 
 ### Option 1: using [git](https://git-scm.com/downloads)
 1. Clone the repository
-```
+```sh
 git clone https://github.com/novak727/Applied-Statistics-Project.git
 ```
 2. Navigate to the project directory
-```
+```sh
 cd /Applied-Statistics-Project
 ```
 
@@ -20,11 +20,11 @@ cd /Applied-Statistics-Project
 
 #### Running from the command line
 1. Open a command line and go to the location of the files
-```
+```sh
 cd /path/to/files
 ```
 2. Run the following:
-```
+```sh
 Rscript MA345-project.R
 ```
 #### Running from RStudio
